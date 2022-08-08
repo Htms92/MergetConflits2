@@ -1,3 +1,2 @@
-# MergetConflits2
-
+REMOTE
 exercise
