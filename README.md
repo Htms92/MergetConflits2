@@ -1,3 +1,3 @@
-# MergetConflits2
+LOCAL
 
 exercise
