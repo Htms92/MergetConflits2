@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-LOCAL
-
-=======
-REMOTE
->>>>>>> c30392731fa53170965742d950509419316a05da
-exercise
+Remote
